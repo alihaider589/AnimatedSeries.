@@ -1,0 +1,3 @@
+rootProject.name = 'AnimatedSeries'
+
+include ':app'
